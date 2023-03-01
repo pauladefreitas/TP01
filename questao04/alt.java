@@ -1,6 +1,6 @@
 import java.util.*;
 
-class altAleatoria {
+class alt {
     public static void main(String[] args) {
         String palavra = "", palavraAlt; 
         Random gerador = new Random( );
